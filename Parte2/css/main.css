@@ -1,0 +1,20 @@
+div{
+  width:100px;
+	 height:100px;
+	}
+.bloque1{
+		background:#F3F781;
+    float:left;
+		    }
+.bloque2{
+		background:#5882FA;
+		float:left;
+		    }
+.bloque3{
+		 background:#FE2E64;
+    float:left;
+    		}
+.padre{
+    border:3px solid gray;
+    width:600px;
+      }
